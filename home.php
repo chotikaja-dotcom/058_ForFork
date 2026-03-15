@@ -1,1 +1,1 @@
-<?php echo "momay was here"; ?>
+<?php echo "momay"; ?>
